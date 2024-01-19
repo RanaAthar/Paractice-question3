@@ -1,0 +1,7 @@
+#myid p{
+    color: green;
+}
+/* Special format */
+div[id ="myid"] p{
+background-color: red;
+}
